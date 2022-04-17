@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sidehustle-cvapp/static/css/main.27dda4ef.css",
-    "main.js": "/sidehustle-cvapp/static/js/main.87206313.js",
+    "main.css": "/sidehustle-cvapp/static/css/main.f2374dd4.css",
+    "main.js": "/sidehustle-cvapp/static/js/main.c8379e34.js",
     "index.html": "/sidehustle-cvapp/index.html",
-    "main.27dda4ef.css.map": "/sidehustle-cvapp/static/css/main.27dda4ef.css.map",
-    "main.87206313.js.map": "/sidehustle-cvapp/static/js/main.87206313.js.map"
+    "main.f2374dd4.css.map": "/sidehustle-cvapp/static/css/main.f2374dd4.css.map",
+    "main.c8379e34.js.map": "/sidehustle-cvapp/static/js/main.c8379e34.js.map"
   },
   "entrypoints": [
-    "static/css/main.27dda4ef.css",
-    "static/js/main.87206313.js"
+    "static/css/main.f2374dd4.css",
+    "static/js/main.c8379e34.js"
   ]
 }
